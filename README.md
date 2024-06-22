@@ -1,4 +1,3 @@
-![bocchi](https://img.bocchi2b.top/bocchi.gif)
 <div align="center">
   <img src="https://img.bocchi2b.top/bocchi.gif" alt="bocchi">
 </div>
