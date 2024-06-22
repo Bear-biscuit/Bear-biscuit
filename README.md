@@ -1,4 +1,8 @@
 ![bocchi](https://img.bocchi2b.top/bocchi.gif)
+<div align="center">
+  <img src="https://img.bocchi2b.top/bocchi.gif" alt="bocchi">
+</div>
+
 
 <!--
 **Bear-biscuit/Bear-biscuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
